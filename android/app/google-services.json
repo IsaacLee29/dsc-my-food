@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "277058424442",
+    "project_id": "my-food-e6f40",
+    "storage_bucket": "my-food-e6f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277058424442:android:42c2ecaebb66e9b19675c3",
+        "android_client_info": {
+          "package_name": "com.adelinechew.my_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277058424442-rbtepeqs1mateffe1bdvlqcvss27orq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adelinechew.my_food",
+            "certificate_hash": "402fec65e2cb120f4c8cf4f8e630db88863e1090"
+          }
+        },
+        {
+          "client_id": "277058424442-rtapkn01tedubhb6muvf72p2fvhjhlma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi7_BSgb-wckBlcGMsCvLNjvE3JIkmjX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277058424442-rtapkn01tedubhb6muvf72p2fvhjhlma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277058424442-5d7956bfad2vccggdobiu2anc572rlj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adelinechew.myFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>277058424442-5d7956bfad2vccggdobiu2anc572rlj9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.277058424442-5d7956bfad2vccggdobiu2anc572rlj9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>277058424442-rbtepeqs1mateffe1bdvlqcvss27orq1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCWdv8M2VR6_rLjegyw1msu2WAYKyp2iM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>277058424442</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.adelinechew.myFood</string>
+	<key>PROJECT_ID</key>
+	<string>my-food-e6f40</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-food-e6f40.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:277058424442:ios:8d74e033c99778bc9675c3</string>
+</dict>
+</plist>
