@@ -9,13 +9,20 @@ class CurrentDate extends StatefulWidget {
 }
 
 class _CurrentDateState extends State<CurrentDate> {
-  final String dayDateMonthYear =
-      DateFormat('EEEE, d MMM yyyy').format(DateTime.now());
+  final String dayDateMonthYear = DateFormat('EEEE, d MMM yyyy').format(
+    DateTime.now(),
+  );
 
   @override
   Widget build(BuildContext context) {
     return Container(
-        child: Text(this.dayDateMonthYear,
-            style: TextStyle(fontSize: 15.0, color: Colors.black)));
+      child: Text(
+        this.dayDateMonthYear,
+        style: TextStyle(
+          fontSize: 15.0,
+          color: Colors.black,
+        ),
+      ),
+    );
   }
 }

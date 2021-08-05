@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:my_food/food/theme_data.dart';
 import 'package:my_food/homepage/landing_page.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(
+      MyApp(),
+    );
 
 class MyApp extends StatelessWidget {
   @override
@@ -13,6 +15,4 @@ class MyApp extends StatelessWidget {
       home: LandingPage(),
     );
   }
-
 }
-
